@@ -111,11 +111,14 @@ SDK要求最低API级别为16
 * 支持全平台接入；
 * 采用去中心化设计。支持私有云或公有云部署
 
+## 技术支持（QQ交流群）
+![QQ](image/erweima.png)
+
 # 已有用户
 
-目前已广泛使用的主要厂商，如去哪儿、北工大、便利蜂、新晨航空、爱云动
+目前已广泛使用的主要厂商，如去哪儿、北工大、便利蜂、新晨航空、爱云动、OpenResty
 
-![architecture](image/qunar.png)![architecture](image/blf.png)![architecture](image/sports.png)![architecture](image/bjgydx.png)![architecture](image/xchk.png)
+![architecture](image/qunar.png)![architecture](image/blf.png)![architecture](image/sports.png)![architecture](image/bjgydx.png)![architecture](image/xchk.png)![architecture](image/untitled.png)
 
 
 ### 包括以下扩展功能
