@@ -73,7 +73,7 @@ Startalk因为是私有化部署，服务器也需要部署在自己公司，这
 
 如果您真的很希望做私有化接入，但是又不想在前期有一些投入和成本，可以考虑在公共环境中做试用或暂住：
 
-* 加入[公共域](https://im.qunar.com/new/#/regist).
+* 加入[公共域](https://im.qunar.com/new/#/register).
 
 当您已经决定加入私有化部署，或者决定从公共环境中将数据迁移到私有环境：
 
@@ -97,11 +97,11 @@ SDK要求最低API级别为16
 
 * [imsdk-iOS](https://github.com/qunarcorp/imsdk-ios) iOS 源码及介绍
 
-如果您不想费事，或者希望可以快速开始，那么可以进入我们的[官方网站](https://im.qunar.com/new/)注册公共域账号进行测试。
+如果您不想费事，或者希望可以快速开始，那么可以进入我们的[官方网站](https://im.qunar.com)注册公共域账号进行测试。
 
-## [官方网站](https://im.qunar.com/new/)
+## [官方网站](https://im.qunar.com)
 我们针对不同层次的客户提供了不同层次的支持方式。
-如果您感兴趣但是担心各种使用上的问题，可以移步[官网](https://im.qunar.com/new/)了解详情
+如果您感兴趣但是担心各种使用上的问题，可以移步[官网](https://im.qunar.com)了解详情
 
 ## 系统特性
 
