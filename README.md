@@ -1,6 +1,6 @@
 
 > Startalk  Windows开源公告：
-> startalk Windows代码已开源，[点此快捷查看](https://github.com/qunarcorp/open_source_startalk)
+> Startalk Windows代码已开源，[点此快捷查看](https://github.com/qunarcorp/open_source_startalk)
 
 
 Startalk是世界上最好的开源im系统级解决方案!
