@@ -1,13 +1,6 @@
 ```comment
-Startalk下一阶段开源预告：
-各位星粉~~ Startalk自开源以来，受到大家的热情欢迎，为了回馈大家的信任，2019年春节后，我们将加大开源力度，开源功能包含：
-* 红包
-* AA付款(主要是界面部分)
-* PC客户端
-* 音视频
-* 音视频会议和直播
-
-startalk全球网络加速服务也已上线，有需要的欢迎单独订购
+Startalk  Windows开源公告：
+startalk Windows代码已开源，[点此快捷查看](https://github.com/qunarcorp/open_source_startalk)
 ```
 
 Startalk是世界上最好的开源im系统级解决方案!
@@ -86,6 +79,7 @@ Startalk因为是私有化部署，服务器也需要部署在自己公司，这
 -   最低[Android SDK](https://github.com/qunarcorp/imsdk-android)：
 SDK要求最低API级别为16
 -   编译[Android SDK](https://github.com/qunarcorp/imsdk-android)： SDK要求您针对API 26或更高版本进行编译
+-   [Windows](https://github.com/qunarcorp/open_source_startalk)： 要求window vs2012 qt 5.2.1
 -   其他平台均可使用C++14进行编译。界面是[qt](https://qt.io/)
 
 ### 看到这里，您现在可能已经希望测试一番了。。。
@@ -96,6 +90,8 @@ SDK要求最低API级别为16
 * [imsdk-android](https://github.com/qunarcorp/imsdk-android) 安卓源码及介绍
 
 * [imsdk-iOS](https://github.com/qunarcorp/imsdk-ios) iOS 源码及介绍
+
+* [Windows](https://github.com/qunarcorp/open_source_startalk) Windows 源码及介绍
 
 如果您不想费事，或者希望可以快速开始，那么可以进入我们的[官方网站](https://im.qunar.com)注册公共域账号进行测试。
 
@@ -209,5 +205,7 @@ ios SDK
 
 适用于iOS/Mac的OpenSSL库
 
+#### Windows端
++ [Windows](https://github.com/qunarcorp/open_source_startalk)
 
->PC及MAC端即将开源，如有需要，可先行下载客户端自主部署,下载地址:[https://im.qunar.com/new/#/download](https://im.qunar.com/new/#/download)
+>web端即将开源，如有需要接入MAC端，可先行下载客户端自主部署,下载地址:[https://im.qunar.com/new/#/download](https://im.qunar.com/new/#/download)
