@@ -1,7 +1,7 @@
 
-> Startalk  Windows开源公告：
+> Startalk  开源公告：
 > Startalk Windows代码已开源，[点此快捷查看](https://github.com/qunarcorp/open_source_startalk)
-
+> Startalk Web端代码已开源，[点此快捷查看](https://github.com/qunarcorp/startalk_node)
 
 Startalk是世界上最好的开源im系统级解决方案!
 
@@ -80,6 +80,7 @@ Startalk因为是私有化部署，服务器也需要部署在自己公司，这
 SDK要求最低API级别为16
 -   编译[Android SDK](https://github.com/qunarcorp/imsdk-android)： SDK要求您针对API 26或更高版本进行编译
 -   [Windows](https://github.com/qunarcorp/open_source_startalk)： 要求window vs2012 qt 5.2.1
+-   [Web](https://github.com/qunarcorp/startalk_node)： 推荐部署环境node 8.6.0 npm 5.3.0（node@>=7.6.0；npm@>=3.0.0；pm2@>=2.0.0）
 -   其他平台均可使用C++14进行编译。界面是[qt](https://qt.io/)
 
 ### 看到这里，您现在可能已经希望测试一番了。。。
@@ -92,6 +93,8 @@ SDK要求最低API级别为16
 * [imsdk-iOS](https://github.com/qunarcorp/imsdk-ios) iOS 源码及介绍
 
 * [Windows](https://github.com/qunarcorp/open_source_startalk) Windows 源码及介绍
+
+* [Web](https://github.com/qunarcorp/startalk_node) web 源码及介绍
 
 如果您不想费事，或者希望可以快速开始，那么可以进入我们的[官方网站](https://im.qunar.com)注册公共域账号进行测试。
 
@@ -207,5 +210,10 @@ ios SDK
 
 #### Windows端
 + [Windows](https://github.com/qunarcorp/open_source_startalk)
+Windows 源码
 
 >web端即将开源，如有需要接入MAC端，可先行下载客户端自主部署,下载地址:[https://im.qunar.com/new/#/download](https://im.qunar.com/new/#/download)
+
+#### Web端
++ [Web](https://github.com/qunarcorp/startalk_node)
+web端 源码
