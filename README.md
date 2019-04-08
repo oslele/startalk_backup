@@ -182,7 +182,6 @@ IM数据库服务
 
 ### 客户端简介
 [客户端私有化配置](https://im.qunar.com/new/#/platform/access_guide/manage_nav?id=manage_nav_pc)
-> 客户端SDK开源，目前仅开源移动端，PC端即将开源
 
 #### android端
 + [imsdk-android](https://github.com/qunarcorp/imsdk-android)
