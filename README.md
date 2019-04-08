@@ -145,7 +145,7 @@ Startalk 采用去中心化设计，将非状态服务合并到了Public中，�
 
 
 
-Startalk 后端模块
+### 后端模块
 
 ![architecture](image/arch_ejab.png)
 
@@ -180,8 +180,7 @@ IM缓存服务
 
 IM数据库服务
 
-### 客户端简介
-[客户端私有化配置](https://im.qunar.com/new/#/platform/access_guide/manage_nav?id=manage_nav_pc)
+### 客户端模块
 
 #### android端
 + [imsdk-android](https://github.com/qunarcorp/imsdk-android)
