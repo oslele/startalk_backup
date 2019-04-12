@@ -1,9 +1,7 @@
 
 > Startalk  开源公告：
 
-> Startalk Windows代码已开源，[点此快捷查看](https://github.com/qunarcorp/open_source_startalk)
-
-> Startalk Web端代码已开源，[点此快捷查看](https://github.com/qunarcorp/startalk_node)
+> Startalk Windows及web端代码已开源，[点此查看Windows源码](https://github.com/qunarcorp/open_source_startalk)，[点此查看Web端源码](https://github.com/qunarcorp/startalk_node)
 
 Startalk是世界上最好的开源im系统级解决方案!
 
@@ -115,15 +113,8 @@ SDK要求最低API级别为16
 ## 技术支持（QQ交流群）
 ![QQ](image/erweima.png)
 
-# 已有用户
-
-目前已广泛使用的主要厂商，如去哪儿、北工大、便利蜂、新晨航空、爱云动、OpenResty
-
-![architecture](image/qunar.png)![architecture](image/blf.png)![architecture](image/sports.png)![architecture](image/bjgydx.png)![architecture](image/xchk.png)![architecture](image/untitled.png)
-
 
 ### 包括以下扩展功能
--   企业OA
 -   单聊及群聊
 -   搜索
 -   push
@@ -131,6 +122,7 @@ SDK要求最低API级别为16
 -   红包&AA收款
 -   会话加密
 -   组织架构
+-   企业OA
 
 
 
@@ -203,11 +195,18 @@ ios SDK
 适用于iOS/Mac的OpenSSL库
 
 #### Windows端
-+ [Windows](https://github.com/qunarcorp/open_source_startalk)
-Windows 源码
++ [Windows](https://github.com/qunarcorp/open_source_startalk)源码
 
 >如有需要接入MAC端，可先行下载客户端自主部署,下载地址:[https://im.qunar.com/new/#/download](https://im.qunar.com/new/#/download)
 
 #### Web端
-+ [Web](https://github.com/qunarcorp/startalk_node)
-web端 源码
++ [Web](https://github.com/qunarcorp/startalk_node)源码
+
+# 常见使用问题
++ [查看常见使用问题](https://github.com/qunarcorp/open_source_startalk)
+
+# 已有用户
+
+目前已广泛使用的主要厂商，如去哪儿、北工大、便利蜂、新晨航空、爱云动、OpenResty
+
+![architecture](image/qunar.png)![architecture](image/blf.png)![architecture](image/sports.png)![architecture](image/bjgydx.png)![architecture](image/xchk.png)![architecture](image/untitled.png)
