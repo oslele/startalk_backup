@@ -43,7 +43,7 @@ Startalk默认给用户展示4个常用工具，分别为：笔记本、行程�
 ![architecture](image/RNrukou.png)
 -   RN文件名：如下图所示，将红框内内容配置进RN文件名
 ![architecture](image/RNwenjianming.png)
--   程序入口：如下图所示，将红框内内容配置进程序入口
+-   程序入口：如下图所示，将红框内内容（不包含.android.jsbundle）配置进程序入口
 ![architecture](image/RNcxrk.png)
 -   是否显示导航：该选项主要控制进入程序内，是否要显示APP导航
 
