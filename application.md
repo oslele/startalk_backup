@@ -39,7 +39,7 @@ Startalk默认给用户展示4个常用工具，分别为：笔记本、行程�
 ![architecture](image/RN1.png)
 ![architecture](image/RN2.png)
 -   RN应用只支持移动端（iOS及安卓），不支持PC端
--   文件入口：如下图所示，将文件中红框内的iOS及Android名配进输入框
+-   文件入口：如下图所示，将文件中红框内的Android名配进输入框
 ![architecture](image/RNrukou.png)
 -   RN文件名：如下图所示，将红框内内容配置进RN文件名
 ![architecture](image/RNwenjianming.png)
@@ -51,7 +51,7 @@ Startalk默认给用户展示4个常用工具，分别为：笔记本、行程�
 ![architecture](image/webyy.png)
 -   系统：选择H5应用后，需要勾选对应上传的系统，才会展示该系统URL上传选项
 -   跳转URL：上传URL地址，在客户端点击该应用后，会跳转至URL所在的网页
--   关于鉴权：H5应用采用种cookie的方式传递ckey(只会在本域名下的地址种),后续操作与 3.2.3 RN应用第7条说明相同
+-   关于鉴权：H5应用采用种cookie的方式传递ckey(只会在本域名下的地址种),后续操作与api文档说明-RN API文档地址应用第7条说明相同
 
 ### 步骤三：重启客户端，应用生效
 后台修改或新建应用后，客户端需重启后才能生效
