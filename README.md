@@ -202,7 +202,7 @@ ios SDK
 + [Web](https://github.com/qunarcorp/startalk_node)源码
 
 # 常见使用问题
-+ [查看常见使用问题](https://github.com/qunarcorp/open_source_startalk)
++ [查看常见使用问题](https://github.com/qunarcorp/qtalk/issues)
 
 # 已有用户
 
