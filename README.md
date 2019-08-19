@@ -1,6 +1,4 @@
 
-(https://github.com/qunarcorp/startalk_web)
-
 Startalk是世界上最好的开源im系统级解决方案!
 
 * [English Version](https://github.com/qunarcorp/qtalk/blob/master/README.en.md)
