@@ -1,15 +1,13 @@
 Startalk, The Best open sourced instant messenger software in the world!
 
 * [Chinese Version](https://github.com/qunarcorp/qtalk/blob/master/README.md)
-* [What is Startalk](#Startalk)
-* [Usage scenario](#usage-scenario)
-* [System characteristics](#System-characteristics)
-* [How To Use](#How-To-Use)
-  * [Desktop Apps](#Desktop-Apps)
-  * [Moible Apps](#Mobile-Apps)
-  * [Deployment](#Deployment)
+* [Startalk](#Startalk - Solution for Instant Message)
+* [Application Scenarios](#Application Scenarios)
+* [Characteristics of Startalk](#Characteristics of Startalk)
+* [How to Use](#How to Use)
+* [FAQ](#FAQ)
+* [Our Partners](#Our Partners)
   
-
 # Startalk - Solution for Instant Message
 
 Communication is a fundamental need of humankind. – “Sapiens: A brief history of humankind”
