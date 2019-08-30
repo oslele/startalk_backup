@@ -101,15 +101,21 @@ Include the functions below:
 -	OA for business
 
 ## Decentralized Design and the Way of Deployment
+![architecture](image/sequence1.png)
 
 1.	Separations between each domain
 2.	Users are connected to domains
 3.	Domain can be enlarged horizontally
 4.	Public can be used by multiple domains
 
-The design of Startalk is decentralized, which integrated non-state service into public and state service into domains. As long as you have a server, you can deploy an IM system in your home!!
+The design of Startalk is decentralized, which integrated non-state service into public and state service into domains. 
+
+![architecture](image/sequence2.png)
+
+As long as you have a server, you can deploy an IM system in your home!!
 
 ## Back-end Modules
+![architecture](image/structure.png)
 
 Startalk includes:
 
