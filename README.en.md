@@ -33,7 +33,7 @@ We are transferring our focus from git of our company to Github, aiming to provi
 -	Private deployment is highly recommended
 Private deployment is the need for businesses. Taking efficient communication and expansibility as basics, we try our best to help enterprises.
 
-# How To Use
+# How to Use
 
 Startalk focuses on private deployment, which leads to the complexity of the log-in process of Startalk. Luckily, our team not only made the process of designing IM system easy, but also decrease the cost of it.
 
