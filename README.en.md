@@ -52,7 +52,7 @@ If you want to try private deployment without cost, you can try it in public dom
 
 If you have decided to use private deployment or transfer your data from public to private domain.. Let’s begin!
 
-## Requirements for the environment of deployment
+## Requirements for the Environment of Deployment
 
 -	Back-end server: centos 7 (allows Ubuntu and various kinds of private cloud in the future)
 -	IOS SDK, minimum requirement: IOS 9 
@@ -74,7 +74,7 @@ If you have decided to use private deployment or transfer your data from public 
 
 If you want to start quickly, please enter our official website to sign up an account for test in public domain.
 
-## How to integrate your own app in Startalk
+## How to Integrate Your Own App in Startalk
 
 Startalk allows users to redevelop it to integrate their own app in Startalk, in order to achieve customization. Startalk Pro provides backstage for you to upload app; after deployment, you can embed your app (RN or H5) through backstage configuration.
 
@@ -82,7 +82,7 @@ Startalk allows users to redevelop it to integrate their own app in Startalk, in
 
 For different customers, we have different solutions. If you are interested, please see our official website.
 
-## Characteristics of the system
+## Characteristics of the System
 
 -	Focus on user experience and data security
 -	Allows end-to-end encryption. Use TLS connection, completely binary protocol
@@ -100,7 +100,7 @@ Include the functions below:
 -	Organization structure
 -	OA for business
 
-## Decentralized design and the way of deployment
+## Decentralized Design and the Way of Deployment
 
 1.	Separations between each domain
 2.	Users are connected to domains
@@ -109,7 +109,7 @@ Include the functions below:
 
 The design of Startalk is decentralized, which integrated non-state service into public and state service into domains. As long as you have a server, you can deploy an IM system in your home!!
 
-## Back-end modules
+## Back-end Modules
 
 Startalk includes:
 
@@ -123,7 +123,7 @@ Startalk includes:
 - Redis: Caching service in IM
 - Postgresql: database service in IM
 
-## Client-Side Modules
+## Client-side Modules
 
 Android
 - Imsdk-android Android SDK 
