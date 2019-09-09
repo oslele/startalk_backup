@@ -33,9 +33,13 @@ In other words, a single core has solved Qunar’s problem of communication inte
 # Characteristics of Startalk
 
 -	Open-sourced
+```comment
 We are transferring our focus from git of our company to Github, aiming to provide you services that are stable and long-lasting.
+```
 -	Private deployment is highly recommended
+```comment
 Private deployment is the need for businesses. Taking efficient communication and expansibility as basics, we try our best to help enterprises.
+```
 
 # How to Use
 
