@@ -94,7 +94,9 @@ SDK要求最低API级别为16
 
 * [imsdk-iOS](https://github.com/qunarcorp/imsdk-ios) iOS 源码及介绍
 
-* [Windows](https://github.com/qunarcorp/open_source_startalk) Windows 源码及介绍
+* [Windows1.0](https://github.com/qunarcorp/open_source_startalk) Windows 源码及介绍
+
+* [PC2.0](https://github.com/qunarcorp/startalk_pc_v2) PC2.0 源码及介绍
 
 * [Web](https://github.com/qunarcorp/startalk_web) web 源码及介绍
 
@@ -198,7 +200,8 @@ ios SDK
 #### Windows端
 + [Windows](https://github.com/qunarcorp/open_source_startalk)源码
 
->如有需要接入MAC端，可先行下载客户端自主部署,下载地址:[https://im.qunar.com/new/#/download](https://im.qunar.com/new/#/download)
+#### PC2.0（含window、mac、Linux端）
++ [PC 2.0](https://github.com/qunarcorp/startalk_pc_v2)源码
 
 #### Web端
 + [Web](https://github.com/qunarcorp/startalk_web)源码
