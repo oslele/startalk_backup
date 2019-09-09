@@ -165,4 +165,4 @@ See [FAQ](https://github.com/qunarcorp/qtalk/issues)
 
 # Our Partners
 
-![architecture](image/qunar.png)![architecture](image/blf.png)![architecture](image/sports.png)![architecture](image/bjgydx.png)![architecture](image/xchk.png)![architecture](image/or.png)[architecture](image/yakang.png)![architecture](image/qichezhijia.png)[architecture](image/weicha.png)
+![architecture](image/qunar.png)![architecture](image/blf.png)![architecture](image/sports.png)![architecture](image/bjgydx.png)![architecture](image/xchk.png)![architecture](image/or.png)[architecture](image/yakang.png)![architecture](image/qichezhijia.png)[architecture](image/weichai.png)
