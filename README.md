@@ -5,6 +5,12 @@ Startalk, The Best open sourced instant messenger software in the world!
 * [Application Scenarios](#Application-Scenarios)
 * [Characteristics of Startalk](#Characteristics-of-Startalk)
 * [How to Use](#How-to-Use)
+  * [Requirements for the Environment of Deployment](#Requirements-for-the-Environment-of-Deployment)
+  * [Start](#Start)
+  * [How to Integrate Your Own App in Startalk](#How-to-Integrate-Your-Own-App-in-Startalk)
+  * [Official Website](https://im.qunar.com/#/)
+  * [Characteristics of the System](#Characteristics-of-the-System)
+  * [Decentralized Design and the Way of Deployment](#Decentralized-Design-and-the-Way-of-Deployment)
 * [FAQ](#FAQ)
 * [Our Partners](#Our-Partners)
   
