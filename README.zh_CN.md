@@ -217,4 +217,4 @@ ios SDK
 
 目前已广泛使用的主要厂商，如去哪儿、北工大、便利蜂、新晨航空、爱云动、OpenResty
 
-![architecture](image/qunar.png)![architecture](image/blf.png)![architecture](image/sports.png)![architecture](image/bjgydx.png)![architecture](image/xchk.png)![architecture](image/or.png)![architecture](image/yakang.png)![architecture](image/qichezhijia.png)![architecture](image/weichai.png)
+![architecture](image/qunar.png)![architecture](image/blf.png)![architecture](image/sports.png)![architecture](image/bjgydx.png)![architecture](image/xchk.png)![architecture](image/or.png)![architecture](image/yakang.png)![architecture](image/weichai.png)![architecture](image/qichezhijia.png)
