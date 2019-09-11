@@ -197,8 +197,8 @@ ios SDK
 + [libqimopenssl](https://github.com/qunarcorp/libqimopenssl-ios)
 适用于iOS/Mac的OpenSSL库
 
-#### Windows端
-+ [Windows](https://github.com/qunarcorp/open_source_startalk)源码
+#### Windows端1.0版本
++ [Windows1.0](https://github.com/qunarcorp/open_source_startalk)源码
 
 #### PC2.0（含window、mac、Linux端）
 + [PC 2.0](https://github.com/qunarcorp/startalk_pc_v2)源码
