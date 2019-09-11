@@ -151,8 +151,8 @@ iOS
 - [libqimdatabase](https://github.com/qunarcorp/libqimdatabase-ios) component library of data library
 - [libqimopenssl](https://github.com/qunarcorp/libqimopenssl-ios) OpenSSL Library that applicable to ios/Mac
 
-Windows
-- [Windows](https://github.com/qunarcorp/open_source_startalk) source code
+Windows 1.0
+- [Windows 1.0](https://github.com/qunarcorp/open_source_startalk) source code
 
 PC 2.0(include Windows, Mac, and Linux)
 - [PC 2.0](https://github.com/qunarcorp/startalk_pc_v2)
