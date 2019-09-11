@@ -206,6 +206,10 @@ ios SDK
 #### Web端
 + [Web](https://github.com/qunarcorp/startalk_web)源码
 
+#### Emacs
++ [Emacs](https://github.com/qunarcorp/qim-emacs)源码
+
+
 # 常见使用问题
 + [查看常见使用问题](https://github.com/qunarcorp/qtalk/issues)
 

@@ -160,6 +160,10 @@ PC 2.0(include Windows, Mac, and Linux)
 Web
 - Source code for [Web](https://github.com/qunarcorp/startalk_web)
 
+Emacs
+- Source code for [Emacs](https://github.com/qunarcorp/qim-emacs)
+
+
 # FAQ
 See [FAQ](https://github.com/qunarcorp/qtalk/issues)
 
