@@ -18,10 +18,8 @@ Startalk是世界上最好的开源im系统级解决方案!
 * [已有用户](#已有用户)
 
 
-```comment
-让部署更简单！
-Startalk一键部署包已开放，请您到以下地址下载：https://im.qunar.com/#/download_easy
-```
+*** 让部署更简单！
+*** Startalk一键部署包已开放，请您到以下地址下载：[一键部署](https://im.qunar.com/#/download_easy)
 
 # Startalk(星语)——通用通信解决方案
 
