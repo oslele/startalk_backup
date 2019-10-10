@@ -13,7 +13,15 @@ Startalk, The Best open sourced instant messenger software in the world!
   * [Decentralized Design and the Way of Deployment](#Decentralized-Design-and-the-Way-of-Deployment)
 * [FAQ](#FAQ)
 * [Our Partners](#Our-Partners)
-  
+
+
+**********************************************
+***Make deployment easier！***
+
+***Startalk One-click deployment is open，Please download：[One-click deployment](https://im.qunar.com/#/download_easy)***
+**********************************************
+
+
 # Startalk - Solution for Instant Message
 
 Communication is a fundamental need of humankind. – “Sapiens: A brief history of humankind”
