@@ -8,7 +8,7 @@ Startalk, The Best open sourced instant messenger software in the world!
   * [Requirements for the Environment of Deployment](#Requirements-for-the-Environment-of-Deployment)
   * [Start](#Start)
   * [How to Integrate Your Own App in Startalk](#How-to-Integrate-Your-Own-App-in-Startalk)
-  * [Official Website](https://im.qunar.com/#/)
+  * Official Website
   * [Characteristics of the System](#Characteristics-of-the-System)
   * [Decentralized Design and the Way of Deployment](#Decentralized-Design-and-the-Way-of-Deployment)
 * [FAQ](#FAQ)
@@ -64,7 +64,7 @@ However, since Startalk focuses on private deployment, the server of app needs t
 -	Modify client app through backstage configuration
 -	Import accounts & Log-in
 
-If you want to try private deployment without cost, you can try it in [public domain](https://im.qunar.com/new/#/register)
+If you want to try private deployment without cost, you can try it in public domain
 
 If you have decided to use [private deployment](https://github.com/qunarcorp/ejabberd-open#startalk-ejabberd) or transfer your data from public to private domain.. Let’s begin!
 
@@ -90,15 +90,15 @@ If you have decided to use [private deployment](https://github.com/qunarcorp/eja
 - [PC 2.0](https://github.com/qunarcorp/startalk_pc_v2) source code and introduction
 -	[Web](https://github.com/qunarcorp/startalk_web) source code and introduction
 
-If you want to start quickly, please enter our [official website](https://im.qunar.com/#/) to sign up an account for test in [public domain](https://im.qunar.com/new/#/register).
+If you want to start quickly, please enter our official website to sign up an account for test in public domain
 
 ## How to Integrate Your Own App in Startalk
 
 Startalk allows users to redevelop it to integrate their own app in Startalk, in order to achieve customization. Startalk Pro provides backstage for you to upload app; after deployment, you can embed your app (RN or H5) through backstage configuration.[More information](application.md)
 
-## [Official Website](https://im.qunar.com/#/)
+## Official Website
 
-For different customers, we have different solutions. If you are interested, please see our [official website](https://im.qunar.com/#/).
+For different customers, we have different solutions. If you are interested, please see our official website.
 
 ## Characteristics of the System
 
