@@ -73,6 +73,8 @@ If you want to try private deployment without cost, you can try it in public dom
 
 If you have decided to use [private deployment](https://github.com/qunarcorp/ejabberd-open#startalk-ejabberd) or transfer your data from public to private domain.. Let’s begin!
 
+[Back to TOC](#table-of-contents)
+
 ## Requirements for the Environment of Deployment
 
 -	[Back-end server](https://github.com/qunarcorp/ejabberd-open) centos 7 (allows Ubuntu and various kinds of private cloud in the future)
@@ -86,6 +88,8 @@ If you have decided to use [private deployment](https://github.com/qunarcorp/eja
 
 ---------Let’s test it!!!!!---------
 
+[Back to TOC](#table-of-contents)
+
 ## Start
 
 -	[Ejabberd](https://github.com/qunarcorp/ejabberd-open) back end source code and introduction
@@ -97,13 +101,19 @@ If you have decided to use [private deployment](https://github.com/qunarcorp/eja
 
 If you want to start quickly, please enter our official website to sign up an account for test in public domain
 
+[Back to TOC](#table-of-contents)
+
 ## How to Integrate Your Own App in Startalk
 
 Startalk allows users to redevelop it to integrate their own app in Startalk, in order to achieve customization. Startalk Pro provides backstage for you to upload app; after deployment, you can embed your app (RN or H5) through backstage configuration.[More information](application.md)
 
+[Back to TOC](#table-of-contents)
+
 ## Official Website
 
 For different customers, we have different solutions. If you are interested, please see our official website.
+
+[Back to TOC](#table-of-contents)
 
 ## Characteristics of the System
 
@@ -112,6 +122,8 @@ For different customers, we have different solutions. If you are interested, ple
 -	Allows all types of messages: text, emoji, file, audio, video, photo, location, red packet, code, etc.
 -	Allows access to all platforms
 -	Decentralized design. Allow private cloud or public cloud deployment.
+
+[Back to TOC](#table-of-contents)
 
 ### Include the functions below:
 -	DM and group chat
@@ -122,6 +134,8 @@ For different customers, we have different solutions. If you are interested, ple
 -	Encrypted conversation
 -	Organization structure
 -	OA for business
+
+[Back to TOC](#table-of-contents)
 
 ## Decentralized Design and the Way of Deployment
 ![architecture](image/sequence1.png)
@@ -137,6 +151,8 @@ The design of Startalk is decentralized, which integrated non-state service into
 
 As long as you have a server, you can deploy an IM system in your home!!
 
+[Back to TOC](#table-of-contents)
+
 ## Back-end Modules
 ![architecture](image/structure.png)
 
@@ -151,6 +167,8 @@ Startalk includes:
 - [Qtalk_search](https://github.com/qunarcorp/qtalk_search): It provides the service to search people and groups remotely
 - Redis: Caching service in IM
 - Postgresql: database service in IM
+
+[Back to TOC](#table-of-contents)
 
 ## Client-side Modules
 
@@ -176,10 +194,17 @@ Web
 Emacs
 - Source code for [Emacs](https://github.com/qunarcorp/qim-emacs)
 
+[Back to TOC](#table-of-contents)
 
 # FAQ
 See [FAQ](https://github.com/qunarcorp/qtalk/issues)
 
+[Back to TOC](#table-of-contents)
+
 # Our Partners
 
 ![architecture](image/qunar.png)![architecture](image/blf.png)![architecture](image/sports.png)![architecture](image/bjgydx.png)![architecture](image/xchk.png)![architecture](image/or.png)![architecture](image/yakang.png)![architecture](image/weichai.png)![architecture](image/qichezhijia.png)
+
+[Back to TOC](#table-of-contents)
+
+
