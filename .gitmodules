@@ -1,0 +1,3 @@
+[submodule "ejabberd"]
+	path = ejabberd
+	url = git@github.com:startalkIM/ejabberd.git
