@@ -21,7 +21,7 @@ Table of contents
 **********************************************
 ***Make deployment easier！***
 
-***Startalk One-click deployment is open，Please download：[binary Installation package](https://im.qunar.com/#/download_easy)***
+***Startalk One-click deployment is open，Please download：[binary Installation package](https://i.startalk.im/home/#/download_easy)***
 **********************************************
 
 
