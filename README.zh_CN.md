@@ -1,7 +1,7 @@
 
 Startalk是世界上最好的开源im系统级解决方案!
 
-* [English Version](https://github.com/startalkIM/startalk/master/README.md)
+* [English Version](https://github.com/startalkIM/startalk/blob/master/README.md)
 * [Startalk是啥](#Startalk(星语)——通用通信解决方案)
 * [我们的使用场景](#我们的使用场景)
 * [系统特性](#系统特性)
