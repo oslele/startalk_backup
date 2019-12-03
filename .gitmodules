@@ -1,9 +1,3 @@
-[submodule "ejabberd"]
-	path = ejabberd
-	url = git@github.com:startalkIM/ejabberd.git
-[submodule "im_http_service"]
-	path = im_http_service
-	url = git@github.com:startalkIM/im_http_service.git
 [submodule "openresty_ng"]
 	path = openresty_ng
 	url = git@github.com:startalkIM/openresty_ng.git
@@ -13,3 +7,9 @@
 [submodule "qfproxy"]
 	path = qfproxy
 	url = git@github.com:startalkIM/qfproxy.git
+[submodule "ejabberd"]
+	path = ejabberd
+	url = https://github.com/startalkIM/ejabberd.git
+[submodule "im_http_service"]
+	path = im_http_service
+	url = https://github.com/startalkIM/im_http_service.git
