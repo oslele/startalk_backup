@@ -71,7 +71,7 @@ However, since Startalk focuses on private deployment, the server of app needs t
 
 If you want to try private deployment without cost, you can try it in public domain
 
-If you have decided to use [private deployment](https://github.com/qunarcorp/ejabberd-open#startalk-ejabberd) or transfer your data from public to private domain.. Let’s begin!
+If you have decided to use [private deployment](https://github.com/qunarcorp/ejabberd) or transfer your data from public to private domain.. Let’s begin!
 
 [Back to TOC](#table-of-contents)
 
