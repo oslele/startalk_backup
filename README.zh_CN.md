@@ -76,7 +76,7 @@ Startalk因为是私有化部署，服务器也需要部署在自己公司，这
 
 当您已经决定加入私有化部署，或者决定从公共环境中将数据迁移到私有环境：
 
-* 开始[私有化部署!](https://github.com/qunarcorp/ejabberd-open#startalk-ejabberd).
+* 开始[私有化部署!](https://github.com/startalkIM/ejabberd).
 
 
 ## 部署环境要求
