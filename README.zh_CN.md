@@ -80,30 +80,31 @@ Startalk因为是私有化部署，服务器也需要部署在自己公司，这
 
 
 ## 部署环境要求
--   [后端](https://github.com/qunarcorp/ejabberd-open)服务器centos 7(未来会支持ubuntu,以及各种私有云)
--   [ios SDK](https://github.com/qunarcorp/imsdk-ios)  最低支持iOS9系统
--   最低[Android SDK](https://github.com/qunarcorp/imsdk-android)：
+-   [后端](https://github.com/startalkIM/ejabberd)服务器centos 7(未来会支持ubuntu,以及各种私有云)
+-   [ios SDK](https://github.com/startalkIM/imsdk-ios)  最低支持iOS9系统
+-   最低[Android SDK](https://github.com/startalkIM/imsdk-android)：
 SDK要求最低API级别为16
--   编译[Android SDK](https://github.com/qunarcorp/imsdk-android)： SDK要求您针对API 26或更高版本进行编译
+-   编译[Android SDK](https://github.com/startalkIM/imsdk-android)： SDK要求您针对API 26或更高版本进行编译
 -   [Windows 1.0](https://github.com/qunarcorp/open_source_startalk)： 要求window vs2012 qt 5.2.1
 -   [PC 2.0](https://github.com/startalkIM/startalk_pc) 含Windows，MAC，linux三个平台，要求qt5.9以上，cmake3.12及以上
--   [Web](https://github.com/qunarcorp/startalk_web)： 推荐部署环境node 8.6.0 npm 5.3.0（node@>=7.6.0；npm@>=3.0.0；pm2@>=2.0.0）
 -   其他平台均可使用C++14进行编译。界面是[qt](https://qt.io/)
+-   [Web](https://github.com/startalkIM/startalk_web)： 推荐部署环境node 8.6.0 npm 5.3.0（node@>=7.6.0；npm@>=3.0.0；pm2@>=2.0.0）
+
 
 ### 看到这里，您现在可能已经希望测试一番了。。。
 
 ## 快速开始
-* [ejabberd](https://github.com/qunarcorp/ejabberd-open)  后端源码及介绍
+* [ejabberd](https://github.com/startalkIM/ejabberd)  后端源码及介绍
 
-* [imsdk-android](https://github.com/qunarcorp/imsdk-android) 安卓源码及介绍
+* [imsdk-android](https://github.com/startalkIM/imsdk-android) 安卓源码及介绍
 
-* [imsdk-iOS](https://github.com/qunarcorp/imsdk-ios) iOS 源码及介绍
+* [imsdk-iOS](https://github.com/startalkIM/imsdk-ios) iOS 源码及介绍
 
 * [Windows1.0](https://github.com/qunarcorp/open_source_startalk) Windows 源码及介绍
 
 * [PC2.0](https://github.com/startalkIM/startalk_pc) PC2.0 源码及介绍
 
-* [Web](https://github.com/qunarcorp/startalk_web) web 源码及介绍
+* [Web](https://github.com/startalkIM/startalk_web) web 源码及介绍
 
 如果您不想费事，或者希望可以快速开始，那么可以进入我们的官方网站注册公共域账号进行测试。
 
@@ -149,14 +150,14 @@ Startalk 采用去中心化设计，将非状态服务合并到了Public中，�
 
 ![architecture](image/arch_ejab.png)
 
-+ [ejabberd](https://github.com/qunarcorp/ejabberd-open)
++ [ejabberd](https://github.com/startalkIM/ejabberd)
 
 IM核心组件，负责维持与客户端的长连接和消息路由
 
-+ [or](https://github.com/qunarcorp/or_open)
++ [or](https://github.com/startalkIM/openresty_ng)
 
 IM负载均衡组件，负责验证客户端身份，以及转发http请求到对应的后台服务
-+ [im_http_service](https://github.com/qunarcorp/im_http_service_open)
++ [im_http_service](https://github.com/startalkIM/im_http_service)
 
 IM HTTP接口服务，负责IM相关数据的查询、设置以及历史消息同步
 
@@ -164,11 +165,11 @@ IM HTTP接口服务，负责IM相关数据的查询、设置以及历史消息�
 
 IM HTTP接口服务，负责IM相关数据的查询、设置以及历史消息同步，后面会全部迁移到im_http_service上
 
-+ [qfproxy](https://github.com/qunarcorp/qfproxy_open)
++ [qfproxy](https://github.com/startalkIM/qfproxy)
 
 IM文件服务，负责文件的上传和下载
 
-+ [qtalk_search](https://github.com/qunarcorp/qtalk_search)
++ [qtalk_search](https://github.com/startalkIM/search)
 
 提供远程搜索人员和群的服务
 
@@ -183,23 +184,23 @@ IM数据库服务
 ### 客户端模块
 
 #### android端
-+ [imsdk-android](https://github.com/qunarcorp/imsdk-android)
++ [imsdk-android](https://github.com/startalkIM/imsdk-android)
 安卓SDK
 
 #### ios端
-+ [imsdk-iOS](https://github.com/qunarcorp/imsdk-ios)
++ [imsdk-iOS](https://github.com/startalkIM/imsdk-ios)
 ios SDK
 
-+ [libqimkit-ios-cook ](https://github.com/qunarcorp/libqimkit-ios-cook)
++ [libqimkit-ios-cook ](https://github.com/startalkIM/libqimkit-ios-cook)
 各个组件Pod库
 
-+ [libqimcommoncategories](https://github.com/qunarcorp/libqimcommoncategories-ios)
++ [libqimcommoncategories](https://github.com/startalkIM/libqimcommoncategories-ios)
 扩展工具组件库
 
-+ [libqimdatabase](https://github.com/qunarcorp/libqimdatabase-ios)
++ [libqimdatabase](https://github.com/startalkIM/libqimdatabase-ios)
 数据库组件库
 
-+ [libqimopenssl](https://github.com/qunarcorp/libqimopenssl-ios)
++ [libqimopenssl](https://github.com/startalkIM/libqimopenssl-ios)
 适用于iOS/Mac的OpenSSL库
 
 #### Windows端1.0版本
@@ -209,14 +210,14 @@ ios SDK
 + [PC 2.0](https://github.com/startalkIM/startalk_pc)源码
 
 #### Web端
-+ [Web](https://github.com/qunarcorp/startalk_web)源码
++ [Web](https://github.com/startalkIM/startalk_web)源码
 
 #### Emacs
 + [Emacs](https://github.com/qunarcorp/qim-emacs)源码
 
 
 # 常见使用问题
-+ [查看常见使用问题](https://github.com/qunarcorp/qtalk/issues)
++ [查看常见使用问题](https://github.com/startalkIM/startalk/issues)
 
 # 已有用户
 
