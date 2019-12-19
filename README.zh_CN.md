@@ -167,6 +167,9 @@ IM HTTP接口服务，负责IM相关数据的查询、设置以及历史消息�
 
 + [qfproxy](https://github.com/startalkIM/qfproxy)
 
+IM Push 服务。使用基于tomcat的java服务发送离线消息（Notification Service.）
+- [Push_service](https://github.com/startalkIM/push_service)
+
 IM文件服务，负责文件的上传和下载
 
 + [qtalk_search](https://github.com/startalkIM/search)
