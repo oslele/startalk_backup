@@ -86,7 +86,7 @@ Startalk因为是私有化部署，服务器也需要部署在自己公司，这
 SDK要求最低API级别为16
 -   编译[Android SDK](https://github.com/qunarcorp/imsdk-android)： SDK要求您针对API 26或更高版本进行编译
 -   [Windows 1.0](https://github.com/qunarcorp/open_source_startalk)： 要求window vs2012 qt 5.2.1
--   [PC 2.0](https://github.com/qunarcorp/startalk_pc_v2) 含Windows，MAC，linux三个平台，要求qt5.9以上，cmake3.12及以上
+-   [PC 2.0](https://github.com/startalkIM/startalk_pc) 含Windows，MAC，linux三个平台，要求qt5.9以上，cmake3.12及以上
 -   [Web](https://github.com/qunarcorp/startalk_web)： 推荐部署环境node 8.6.0 npm 5.3.0（node@>=7.6.0；npm@>=3.0.0；pm2@>=2.0.0）
 -   其他平台均可使用C++14进行编译。界面是[qt](https://qt.io/)
 
@@ -101,7 +101,7 @@ SDK要求最低API级别为16
 
 * [Windows1.0](https://github.com/qunarcorp/open_source_startalk) Windows 源码及介绍
 
-* [PC2.0](https://github.com/qunarcorp/startalk_pc_v2) PC2.0 源码及介绍
+* [PC2.0](https://github.com/startalkIM/startalk_pc) PC2.0 源码及介绍
 
 * [Web](https://github.com/qunarcorp/startalk_web) web 源码及介绍
 
@@ -206,7 +206,7 @@ ios SDK
 + [Windows1.0](https://github.com/qunarcorp/open_source_startalk)源码
 
 #### PC2.0（含window、mac、Linux端）
-+ [PC 2.0](https://github.com/qunarcorp/startalk_pc_v2)源码
++ [PC 2.0](https://github.com/startalkIM/startalk_pc)源码
 
 #### Web端
 + [Web](https://github.com/qunarcorp/startalk_web)源码
