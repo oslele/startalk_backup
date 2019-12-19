@@ -71,19 +71,19 @@ However, since Startalk focuses on private deployment, the server of app needs t
 
 If you want to try private deployment without cost, you can try it in public domain
 
-If you have decided to use [private deployment](https://github.com/qunarcorp/ejabberd) or transfer your data from public to private domain.. Let’s begin!
+If you have decided to use [private deployment](https://github.com/startalkIM/ejabberd) or transfer your data from public to private domain.. Let’s begin!
 
 [Back to TOC](#table-of-contents)
 
 ## Requirements for the Environment of Deployment
 
--	[Back-end server](https://github.com/qunarcorp/ejabberd-open) centos 7 (allows Ubuntu and various kinds of private cloud in the future)
--	[IOS SDK](https://github.com/qunarcorp/imsdk-ios), minimum requirement: IOS 9 
--	[Android SDK](https://github.com/qunarcorp/imsdk-android), minimum requirement of API: 16
--	Compiled [Android SDK](https://github.com/qunarcorp/imsdk-android), minimum requirement of API: 26
+-	[Back-end server](https://github.com/startalkIM/ejabberd) centos 7 (allows Ubuntu and various kinds of private cloud in the future)
+-	[IOS SDK](https://github.com/startalkIM/imsdk-ios), minimum requirement: IOS 9 
+-	[Android SDK](https://github.com/startalkIM/imsdk-android), minimum requirement of API: 16
+-	Compiled [Android SDK](https://github.com/startalkIM/imsdk-android), minimum requirement of API: 26
 -	[Windows 1.0](https://github.com/qunarcorp/open_source_startalk) windows vs2012 qt 5.2.1
-- [PC 2.0](https://github.com/startalkIM/startalk_pc) include three platforms: Windows, Mac, and Linux; minimum requirement of qt: 5.9; minimum requirement of Cmake: 3.12
--	[Web](https://github.com/qunarcorp/startalk_web) recommended environment of deployment: node 8.6.0 npm 5.3.0 (node@>=7.6.0; npm@>=3.0.0; pm2@>=2.0.0)
+-   [PC 2.0](https://github.com/startalkIM/startalk_pc) include three platforms: Windows, Mac, and Linux; minimum requirement of qt: 5.9; minimum requirement of Cmake: 3.12
+-	[Web](https://github.com/startalkIM/startalk_web) recommended environment of deployment: node 8.6.0 npm 5.3.0 (node@>=7.6.0; npm@>=3.0.0; pm2@>=2.0.0)
 -	Other platforms can use C++14 to compile. Interface is [qt](https://qt.io/).
 
 ---------Let’s test it!!!!!---------
@@ -92,12 +92,12 @@ If you have decided to use [private deployment](https://github.com/qunarcorp/eja
 
 ## Start
 
--	[Ejabberd](https://github.com/qunarcorp/ejabberd-open) back end source code and introduction
--	[Imsdk-android](https://github.com/qunarcorp/imsdk-android) source code and introduction
--	[Imsdk-iOS](https://github.com/qunarcorp/imsdk-ios) source code and introduction
+-	[Ejabberd](https://github.com/startalkIM/ejabberd) back end source code and introduction
+-	[Imsdk-android](https://github.com/startalkIM/imsdk-android) source code and introduction
+-	[Imsdk-iOS](https://github.com/startalkIM/imsdk-ios) source code and introduction
 -	[Windows 1.0](https://github.com/qunarcorp/open_source_startalk) source code and introduction
 - [PC 2.0](https://github.com/startalkIM/startalk_pc) source code and introduction
--	[Web](https://github.com/qunarcorp/startalk_web) source code and introduction
+-	[Web](https://github.com/startalkIM/startalk_web) source code and introduction
 
 If you want to start quickly, please enter our official website to sign up an account for test in public domain
 
@@ -158,7 +158,7 @@ As long as you have a server, you can deploy an IM system in your home!!
 
 Startalk includes:
 
-- [Ejabberd](https://github.com/qunarcorp/ejabberd-open): the core component of IM. It maintains the connection with client app and message routing
+- [Ejabberd](https://github.com/startalkIM/ejabberd): the core component of IM. It maintains the connection with client app and message routing
 - [Or](https://github.com/qunarcorp/or_open): the load balancing component of IM. It verifies the identity of client app and forwards the request from http to the corresponding backstage services
 - [Im_http_service](https://github.com/qunarcorp/im_http_service_open): Port service of IM HTTP. It takes charge of searching the data and settings, as well as synchronizing the chat history (a java service based on tomcat).
 - [Qtalk_cowboy](https://github.com/qunarcorp/qtalk_cowboy_open) (this service will be discarded in the future since all of ports will be move to im_http_service) : port service of IM HTTP It takes charge of searching the data and settings, as well as synchronizing the chat history.
@@ -173,10 +173,10 @@ Startalk includes:
 ## Client-side Modules
 
 Android
-- [Imsdk-android](https://github.com/qunarcorp/imsdk-android) Android SDK 
+- [Imsdk-android](https://github.com/startalkIM/imsdk-android) Android SDK 
 
 iOS
-- [imsdk-iOS](https://github.com/qunarcorp/imsdk-ios) ios SDK
+- [imsdk-iOS](https://github.com/startalkIM/imsdk-ios) ios SDK
 - [libqimkit-ios-cook](https://github.com/qunarcorp/libqimkit-ios-cook) Pod library of components
 - [libqimcommoncategories](https://github.com/qunarcorp/libqimcommoncategories-ios) library pf extended tools
 - [libqimdatabase](https://github.com/qunarcorp/libqimdatabase-ios) component library of data library
@@ -189,7 +189,7 @@ PC 2.0(include Windows, Mac, and Linux)
 - [PC 2.0](https://github.com/startalkIM/startalk_pc)
 
 Web
-- Source code for [Web](https://github.com/qunarcorp/startalk_web)
+- Source code for [Web](https://github.com/startalkIM/startalk_web)
 
 Emacs
 - Source code for [Emacs](https://github.com/qunarcorp/qim-emacs)
