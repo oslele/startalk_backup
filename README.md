@@ -81,7 +81,6 @@ If you have decided to use [private deployment](https://github.com/startalkIM/ej
 -	[IOS SDK](https://github.com/startalkIM/imsdk-ios), minimum requirement: IOS 9 
 -	[Android SDK](https://github.com/startalkIM/imsdk-android), minimum requirement of API: 16
 -	Compiled [Android SDK](https://github.com/startalkIM/imsdk-android), minimum requirement of API: 26
--	[Windows 1.0](https://github.com/qunarcorp/open_source_startalk) windows vs2012 qt 5.2.1
 -   [PC 2.0](https://github.com/startalkIM/startalk_pc) include three platforms: Windows, Mac, and Linux; minimum requirement of qt: 5.9; minimum requirement of Cmake: 3.12
 -	[Web](https://github.com/startalkIM/startalk_web) recommended environment of deployment: node 8.6.0 npm 5.3.0 (node@>=7.6.0; npm@>=3.0.0; pm2@>=2.0.0)
 -	Other platforms can use C++14 to compile. Interface is [qt](https://qt.io/).
@@ -95,8 +94,7 @@ If you have decided to use [private deployment](https://github.com/startalkIM/ej
 -	[Ejabberd](https://github.com/startalkIM/ejabberd) back end source code and introduction
 -	[Imsdk-android](https://github.com/startalkIM/imsdk-android) source code and introduction
 -	[Imsdk-iOS](https://github.com/startalkIM/imsdk-ios) source code and introduction
--	[Windows 1.0](https://github.com/qunarcorp/open_source_startalk) source code and introduction
-- [PC 2.0](https://github.com/startalkIM/startalk_pc) source code and introduction
+-   [PC 2.0](https://github.com/startalkIM/startalk_pc) source code and introduction
 -	[Web](https://github.com/startalkIM/startalk_web) source code and introduction
 
 If you want to start quickly, please enter our official website to sign up an account for test in public domain
@@ -159,12 +157,12 @@ As long as you have a server, you can deploy an IM system in your home!!
 Startalk includes:
 
 - [Ejabberd](https://github.com/startalkIM/ejabberd): the core component of IM. It maintains the connection with client app and message routing
-- [Or](https://github.com/qunarcorp/or_open): the load balancing component of IM. It verifies the identity of client app and forwards the request from http to the corresponding backstage services
-- [Im_http_service](https://github.com/qunarcorp/im_http_service_open): Port service of IM HTTP. It takes charge of searching the data and settings, as well as synchronizing the chat history (a java service based on tomcat).
+- [Or](https://github.com/startalkIM/openresty_ng): the load balancing component of IM. It verifies the identity of client app and forwards the request from http to the corresponding backstage services
+- [Im_http_service](https://github.com/startalkIM/im_http_service): Port service of IM HTTP. It takes charge of searching the data and settings, as well as synchronizing the chat history (a java service based on tomcat).
 - [Qtalk_cowboy](https://github.com/qunarcorp/qtalk_cowboy_open) (this service will be discarded in the future since all of ports will be move to im_http_service) : port service of IM HTTP It takes charge of searching the data and settings, as well as synchronizing the chat history.
-- [Qfproxy](https://github.com/qunarcorp/qfproxy_open): IM file service. It takes charge of uploading and downloading the file (a java service based on tomcat).
-- [Push_service](https://github.com/qunarcorp/push_service_open): Push service in IM. It pushes off-line messages (a java service based on tomcat).
-- [Qtalk_search](https://github.com/qunarcorp/qtalk_search): It provides the service to search people and groups remotely
+- [Qfproxy](https://github.com/startalkIM/qfproxy): IM file service. It takes charge of uploading and downloading the file (a java service based on tomcat).
+- [Push_service](https://github.com/startalkIM/push_service): Push service in IM. It pushes off-line messages (a java service based on tomcat).
+- [Qtalk_search](https://github.com/startalkIM/search): It provides the service to search people and groups remotely
 - Redis: Caching service in IM
 - Postgresql: database service in IM
 
@@ -177,13 +175,10 @@ Android
 
 iOS
 - [imsdk-iOS](https://github.com/startalkIM/imsdk-ios) ios SDK
-- [libqimkit-ios-cook](https://github.com/qunarcorp/libqimkit-ios-cook) Pod library of components
-- [libqimcommoncategories](https://github.com/qunarcorp/libqimcommoncategories-ios) library pf extended tools
-- [libqimdatabase](https://github.com/qunarcorp/libqimdatabase-ios) component library of data library
-- [libqimopenssl](https://github.com/qunarcorp/libqimopenssl-ios) OpenSSL Library that applicable to ios/Mac
-
-Windows 1.0
-- [Windows 1.0](https://github.com/qunarcorp/open_source_startalk) source code
+- [libqimkit-ios-cook](https://github.com/startalkIM/libqimkit-ios-cook) Pod library of components
+- [libqimcommoncategories](https://github.com/startalkIM/libqimcommoncategories-ios) library pf extended tools
+- [libqimdatabase](https://github.com/startalkIM/libqimdatabase-ios) component library of data library
+- [libqimopenssl](https://github.com/startalkIM/libqimopenssl-ios) OpenSSL Library that applicable to ios/Mac
 
 PC 2.0(include Windows, Mac, and Linux)
 - [PC 2.0](https://github.com/startalkIM/startalk_pc)
@@ -197,7 +192,7 @@ Emacs
 [Back to TOC](#table-of-contents)
 
 # FAQ
-See [FAQ](https://github.com/qunarcorp/qtalk/issues)
+See [FAQ](https://github.com/startalkIM/startalk/issues)
 
 [Back to TOC](#table-of-contents)
 
