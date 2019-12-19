@@ -82,7 +82,7 @@ If you have decided to use [private deployment](https://github.com/qunarcorp/eja
 -	[Android SDK](https://github.com/qunarcorp/imsdk-android), minimum requirement of API: 16
 -	Compiled [Android SDK](https://github.com/qunarcorp/imsdk-android), minimum requirement of API: 26
 -	[Windows 1.0](https://github.com/qunarcorp/open_source_startalk) windows vs2012 qt 5.2.1
-- [PC 2.0](https://github.com/qunarcorp/startalk_pc_v2) include three platforms: Windows, Mac, and Linux; minimum requirement of qt: 5.9; minimum requirement of Cmake: 3.12
+- [PC 2.0](https://github.com/startalkIM/startalk_pc) include three platforms: Windows, Mac, and Linux; minimum requirement of qt: 5.9; minimum requirement of Cmake: 3.12
 -	[Web](https://github.com/qunarcorp/startalk_web) recommended environment of deployment: node 8.6.0 npm 5.3.0 (node@>=7.6.0; npm@>=3.0.0; pm2@>=2.0.0)
 -	Other platforms can use C++14 to compile. Interface is [qt](https://qt.io/).
 
@@ -96,7 +96,7 @@ If you have decided to use [private deployment](https://github.com/qunarcorp/eja
 -	[Imsdk-android](https://github.com/qunarcorp/imsdk-android) source code and introduction
 -	[Imsdk-iOS](https://github.com/qunarcorp/imsdk-ios) source code and introduction
 -	[Windows 1.0](https://github.com/qunarcorp/open_source_startalk) source code and introduction
-- [PC 2.0](https://github.com/qunarcorp/startalk_pc_v2) source code and introduction
+- [PC 2.0](https://github.com/startalkIM/startalk_pc) source code and introduction
 -	[Web](https://github.com/qunarcorp/startalk_web) source code and introduction
 
 If you want to start quickly, please enter our official website to sign up an account for test in public domain
@@ -186,7 +186,7 @@ Windows 1.0
 - [Windows 1.0](https://github.com/qunarcorp/open_source_startalk) source code
 
 PC 2.0(include Windows, Mac, and Linux)
-- [PC 2.0](https://github.com/qunarcorp/startalk_pc_v2)
+- [PC 2.0](https://github.com/startalkIM/startalk_pc)
 
 Web
 - Source code for [Web](https://github.com/qunarcorp/startalk_web)
